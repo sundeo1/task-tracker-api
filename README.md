@@ -1,2 +1,2 @@
-# taskmanager_django-api
+# task-tracker-api
 A django REST API for task management
